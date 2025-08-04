@@ -23,4 +23,3 @@ Users can perform multiple calculations in a loop until they choose to exit.
 - Java (JDK 17)
 - Console-based I/O
   
-- Git and GitHub
